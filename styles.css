@@ -1,9 +1,17 @@
 
+ 
+body {
+  background-image: url('https://i.pinimg.com/originals/88/35/db/8835db37720d74211f0af0305cf15cd3.jpg');
+}
+
+
 
 *{
     font-family:cursive;
-    color: rgb(2, 182, 253);
+    color: rgb(4, 82, 207);
   }
+
+  
 
   .card-content{
       opacity: 0.0;
